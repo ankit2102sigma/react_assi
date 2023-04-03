@@ -1,0 +1,61 @@
+p{
+    font-size: 20px;
+    /* padding: 26px 20px 0px 0px; */
+    padding: 24px 0px 0px 22px
+
+}
+
+.menu{
+    text-align: center;
+    color: orangered;
+    font-size: 24px;
+
+}
+
+.foodLLc{
+    background-color: #333333;
+    color: white;
+    /* padding-bottom: 14px; */
+    font-size: 20px;
+    align-items: center;
+    margin: auto;
+    /* border: 3px solid green; */
+    padding: 10px 12px;
+    
+}
+
+.foodIitem{
+    background-color: #cccccc;
+    height: 604px;
+    margin: 28px;
+    overflow-wrap: break-word;
+}
+
+.food_list{
+    display: flex;
+}
+ 
+.Head_name{
+    text-align: center;
+    margin: 20px 0px 10px 0px;
+        font-size: 25px;
+
+}
+#root{
+    background-color: #4CAF50; 
+    border: none; 
+    color: white; 
+    padding: 10px 25px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+  }
+
+  .btn{
+    display: flex;
+    justify-content: center;
+  }
+  
