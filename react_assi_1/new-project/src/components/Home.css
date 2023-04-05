@@ -1,0 +1,30 @@
+/* .home-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .home-title {
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+  }
+   */
+   .navbar {
+    background-color: black;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    color: #343a40;
+  }
+  
+  .nav-link:hover {
+    color: #17a2b8;
+  }
+  
